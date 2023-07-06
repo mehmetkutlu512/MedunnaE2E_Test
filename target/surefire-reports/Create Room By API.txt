@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Create Room By API
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.99 s <<< FAILURE! - in Create Room By API
+TC01_Create_Room(Create Room By API)  Time elapsed: 0.99 s  <<< ERROR!
+java.lang.IllegalArgumentException: Invalid number of path parameters. Expected 2, was 0. Undefined path parameters are: first, second.
+

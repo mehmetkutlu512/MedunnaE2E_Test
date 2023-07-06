@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Room DataBase Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.694 s <<< FAILURE! - in Room DataBase Test
+Select Room(Room DataBase Test)  Time elapsed: 1.694 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[SUITE]> but was:<[TWIN]>
+
